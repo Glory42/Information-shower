@@ -1,0 +1,7 @@
+name = "Görkem Karyol"
+address = "Istanbul "
+number = "05******3848"
+
+print(name)
+print(address)
+print(number)
